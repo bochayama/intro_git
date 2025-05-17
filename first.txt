@@ -3,3 +3,4 @@ gitだよ
 .git add commit
 git remove変更
 ・git status
+git diff
