@@ -2,3 +2,4 @@ gitだよ
 追記しやす
 .git add commit
 git remove変更
+・git status
